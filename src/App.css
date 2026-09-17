@@ -279,7 +279,7 @@
   inset: 0;
   background:
     linear-gradient(rgba(10, 51, 40, 0.88), rgba(10, 51, 40, 0.9)),
-    url("https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg?auto=compress&cs=tinysrgb&w=1600") center/cover no-repeat;
+    url("https://images.pexels.com/photos/34326305/pexels-photo-34326305.jpeg?auto=compress&cs=tinysrgb&w=1600") center/cover no-repeat;
   z-index: 0;
 }
 .trust-strip .container {
@@ -601,7 +601,7 @@
   inset: 0;
   background:
     linear-gradient(rgba(10, 51, 40, 0.86), rgba(10, 51, 40, 0.9)),
-    url("https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg?auto=compress&cs=tinysrgb&w=1600") center/cover no-repeat;
+    url("https://images.pexels.com/photos/35391991/pexels-photo-35391991.jpeg?auto=compress&cs=tinysrgb&w=1600") center/cover no-repeat;
 }
 /* .arch-pattern::after {
   content: "";

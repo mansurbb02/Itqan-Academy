@@ -258,7 +258,7 @@ function App() {
               </div>
               <div className="hero-secondary">
                 <img
-                  src="https://images.pexels.com/photos/8164747/pexels-photo-8164747.jpeg?auto=compress&cs=tinysrgb&w=500"
+                  src="https://images.pexels.com/photos/33968339/pexels-photo-33968339.jpeg?auto=compress&cs=tinysrgb&w=500"
                   alt="মনোযোগী শিক্ষার্থী"
                 />
               </div>
@@ -312,7 +312,7 @@ function App() {
             </div>
             <div className="intro-photo img-reveal">
               <img
-                src="https://images.pexels.com/photos/9383055/pexels-photo-9383055.jpeg?auto=compress&cs=tinysrgb&w=1400"
+                src="https://images.unsplash.com/photo-1629273229664-11fabc0becc0?auto=compress&cs=tinysrgb&w=1400"
                 alt="একাডেমির ক্লাসরুমে শিশুরা"
               />
             </div>

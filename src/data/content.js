@@ -35,7 +35,7 @@ export const programs = [
     age: "৭-১৬ বছর",
     duration: "ব্যক্তিগত গতি অনুযায়ী",
     accent: "orange",
-    image: "https://images.pexels.com/photos/8164747/pexels-photo-8164747.jpeg?auto=compress&cs=tinysrgb&w=900",
+    image: "https://images.pexels.com/photos/33968339/pexels-photo-33968339.jpeg?auto=compress&cs=tinysrgb&w=900",
   },
   {
     id: "03",
@@ -45,7 +45,7 @@ export const programs = [
     age: "৭-১৬ বছর",
     duration: "৬–১২ মাস",
     accent: "blue",
-    image: "https://images.pexels.com/photos/9383055/pexels-photo-9383055.jpeg?auto=compress&cs=tinysrgb&w=900",
+    image: "https://images.pexels.com/photos/33451744/pexels-photo-33451744.jpeg?auto=compress&cs=tinysrgb&w=900",
   },
   {
     id: "04",
