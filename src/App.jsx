@@ -349,7 +349,7 @@ function App() {
               <div className="why-content reveal">
                 <p className="section-label">কেন ইতকান একাডেমি?</p>
                 <h2 className="section-heading">
-                  শেখা হোক আনন্দে, বেড়ে ওঠা হোক সুন্দর মূল্যবোধে।
+                  শেখা হোক আনন্দে, বেড়ে ওঠা হোক ইসলামী মূল্যবোধে।
                 </h2>
                 <ul className="principles">
                   {principles.map((p) => (
