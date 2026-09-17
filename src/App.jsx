@@ -341,7 +341,7 @@ function App() {
               <div className="why-image img-reveal">
                 <div className="arch-frame">
                   <img
-                    src="https://images.pexels.com/photos/8164747/pexels-photo-8164747.jpeg?auto=compress&cs=tinysrgb&w=900"
+                    src="https://images.pexels.com/photos/9127846/pexels-photo-9127846.jpeg?auto=compress&cs=tinysrgb&w=900"
                     alt="কুরআন পড়া শিশু"
                   />
                 </div>
