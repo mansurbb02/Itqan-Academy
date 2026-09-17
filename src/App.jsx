@@ -172,7 +172,7 @@ function App() {
               </li>
               <li>
                 <a href="#programs" onClick={() => setMenuOpen(false)}>
-                  কোর্সসমূহ
+                  প্রোগ্রামসমূহ
                 </a>
               </li>
               <li>
