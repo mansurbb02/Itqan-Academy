@@ -22,7 +22,7 @@ export const programs = [
     title: "কুরআন শিক্ষা প্রোগ্রাম",
     description: "শুদ্ধভাবে কুরআন পড়া ও তাজবীদের মৌলিক শিক্ষা।",
     detail: "শিশুরা সঠিক উচ্চারণ, মাখরাজ ও তাজবীদের নিয়ম শেখে। ধাপে ধাপে সূরা মুখস্থ ও তেলাওয়াতের অভ্যাস গড়ে তোলা হয়।",
-    age: "৪–১২ বছর",
+    age: "৭-১৬ বছর",
     duration: "১২ মাস+",
     accent: "green",
     image: "https://images.pexels.com/photos/30312945/pexels-photo-30312945.jpeg?auto=compress&cs=tinysrgb&w=1200",
