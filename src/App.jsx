@@ -492,7 +492,7 @@ function App() {
         </section>
 
         {/* JOURNEY */}
-        <section className="journey section">
+        {/* <section className="journey section">
           <div className="container">
             <div className="journey-header reveal">
               <p className="section-label">শেখার যাত্রা</p>
@@ -510,7 +510,7 @@ function App() {
               ))}
             </ol>
           </div>
-        </section>
+        </section> */}
 
 
         {/* VIDEO
