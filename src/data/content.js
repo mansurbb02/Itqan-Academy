@@ -121,7 +121,7 @@ export const faqs = [
 
 export const galleryItems = [
   { id: 1, src: "https://images.pexels.com/photos/30312945/pexels-photo-30312945.jpeg?auto=compress&cs=tinysrgb&w=1200", title: "কুরআন পড়ার মুহূর্ত", category: "কুরআন শিক্ষা", date: "২০২৫", type: "image" },
-  { id: 2, src: "https://images.pexels.com/photos/8164747/pexels-photo-8164747.jpeg?auto=compress&cs=tinysrgb&w=1000", title: "মনোযোগী শিক্ষার্থী", category: "শিক্ষার্থী", date: "২০২৫", type: "image" },
+  { id: 2, src: "https://images.pexels.com/photos/33968339/pexels-photo-33968339.jpeg?auto=compress&cs=tinysrgb&w=1000", title: "মনোযোগী শিক্ষার্থী", category: "শিক্ষার্থী", date: "২০২৫", type: "image" },
   { id: 3, src: "https://images.pexels.com/photos/9383055/pexels-photo-9383055.jpeg?auto=compress&cs=tinysrgb&w=1000", title: "ক্লাসরুমের পরিবেশ", category: "ক্লাসরুম", date: "২০২৫", type: "image" },
   { id: 4, src: "https://images.pexels.com/photos/11929254/pexels-photo-11929254.jpeg?auto=compress&cs=tinysrgb&w=1000", title: "মসজিদে পড়া", category: "কুরআন শিক্ষা", date: "২০২৪", type: "image" },
   { id: 5, src: "https://images.pexels.com/photos/20807655/pexels-photo-20807655.jpeg?auto=compress&cs=tinysrgb&w=1000", title: "কুরআনের সাথে", category: "শিক্ষার্থী", date: "২০২৫", type: "image" },
