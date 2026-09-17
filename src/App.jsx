@@ -612,7 +612,7 @@ function App() {
               <div className="parent-img img-reveal">
                 <div className="arch-frame">
                   <img
-                    src="https://images.pexels.com/photos/8164747/pexels-photo-8164747.jpeg?auto=compress&cs=tinysrgb&w=800"
+                    src="https://images.pexels.com/photos/33968339/pexels-photo-33968339.jpeg?auto=compress&cs=tinysrgb&w=800"
                     alt="শিশু ও শিক্ষক"
                   />
                 </div>
