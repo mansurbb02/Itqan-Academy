@@ -224,14 +224,14 @@ function App() {
           <div className="hero-pattern" aria-hidden="true" />
           <div className="container hero-layout">
             <div className="hero-text">
-              <p className="hero-eyebrow">ইতকান কুরআন একাডেমি</p>
+              <p className="hero-eyebrow">ইতকান কুরআন একাডেমি [একটি আফটার-স্কুল মকতব]</p>
               <h1 className="hero-title">
                 শিশুর হাতে <span className="em">কুরআন</span>,
                 <br />
-                জীবনে ইসলামের সুন্দর ভিত্তি
+                জীবনে ইসলামের সুন্দর ভিত্তি গড়তে
               </h1>
               <p className="hero-desc">
-                স্কুল শিক্ষার পাশাপাশি কুরআন, নামাজ, ইসলামী জ্ঞান ও সুন্দর চরিত্র
+                স্কুল শিক্ষার্থীদের জন্য - স্কুল শিক্ষার পাশাপাশি কুরআন, নামাজ, ইসলামী জ্ঞান ও সুন্দর চরিত্র
                 গঠনের জন্য একটি যত্নশীল শিক্ষার পরিবেশ।
               </p>
               <div className="hero-ctas">
@@ -347,7 +347,7 @@ function App() {
                 </div>
               </div>
               <div className="why-content reveal">
-                <p className="section-label">কেন ইতকান?</p>
+                <p className="section-label">কেন ইতকান একাডেমি?</p>
                 <h2 className="section-heading">
                   শেখা হোক আনন্দে, বেড়ে ওঠা হোক সুন্দর মূল্যবোধে।
                 </h2>
@@ -371,7 +371,7 @@ function App() {
         <section className="programs section" id="programs">
           <div className="container">
             <div className="programs-header reveal">
-              <p className="section-label">আমাদের কোর্সসমূহ</p>
+              <p className="section-label">আমাদের প্রোগ্রামসমূহ</p>
               <h2 className="section-heading">পাঁচটি সুন্দর শেখার পথ</h2>
             </div>
 
@@ -513,7 +513,7 @@ function App() {
         </section>
 
 
-        {/* VIDEO */}
+        {/* VIDEO
         <section className="video-section section">
           <div className="container">
             <div className="video-header reveal">
@@ -560,7 +560,7 @@ function App() {
               </div>
             </div>
           </div>
-        )}
+        )} */}
 
         {/* FUN LEARNING */}
         <section className="fun-learning section">
@@ -626,7 +626,7 @@ function App() {
           <div className="admission-pattern" aria-hidden="true" />
           <div className="container admission-content reveal">
             <h2>
-              ইতকানে শুরু হোক
+              ইতকান একাডেমিতে শুরু হোক
               <br />
               একটি সুন্দর শেখার যাত্রা
             </h2>
@@ -718,14 +718,14 @@ function App() {
                     <span>{academy.hours}</span>
                   </li>
                 </ul>
-                <button
+                {/* <button
                   type="button"
                   className="btn btn-primary"
                   onClick={() => openWhatsApp(WA_MESSAGES.general)}
                   aria-label="WhatsApp-এ যোগাযোগ করুন"
                 >
                   WhatsApp-এ যোগাযোগ করুন
-                </button>
+                </button> */}
               </div>
               <form className="contact-form reveal" onSubmit={handleFormSubmit}>
                 <div className="form-row">
@@ -771,10 +771,10 @@ function App() {
                   </label>
                 </div>
                 <label>
-                  আগ্রহের কোর্স
+                  আগ্রহের প্রোগ্রাম
                   <select name="course" required defaultValue="">
                     <option value="" disabled>
-                      কোর্স নির্বাচন করুন
+                      প্রোগ্রাম নির্বাচন করুন
                     </option>
                     {programs.map((p) => (
                       <option key={p.id} value={p.title}>
@@ -784,7 +784,7 @@ function App() {
                   </select>
                 </label>
                 <label>
-                  বার্তা
+                  আপনার জিজ্ঞাসা/তথ্য
                   <textarea
                     name="message"
                     rows="4"
@@ -792,7 +792,7 @@ function App() {
                   />
                 </label>
                 <button type="submit" className="btn btn-primary">
-                  WhatsApp-এ বার্তা পাঠান
+                  Send WhatsApp
                 </button>
               </form>
             </div>
@@ -815,7 +815,7 @@ function App() {
                   <a href="#about">আমাদের কথা</a>
                 </li>
                 <li>
-                  <a href="#programs">কোর্সসমূহ</a>
+                  <a href="#programs">প্রোগ্রামসমূহ</a>
                 </li>
                 <li>
                   <a href="#faq">প্রশ্নোত্তর</a>
