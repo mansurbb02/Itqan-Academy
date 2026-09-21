@@ -10,8 +10,8 @@ export const academy = {
   phone: "+880 1575-040095",
   whatsapp: "+880 1575-040095",
   email: "mansurbb02@gmail.com",
-  address: "ঢাকা, বাংলাদেশ",
-  hours: "বিকাল ও সন্ধ্যার ব্যাচ",
+  address: "সবুজপল্লী আবাসন, নন্দীপাড়া ৬ নং রোড, ঢাকা।",
+  hours: "দুপুর ২টা হতে রাত ৯টা পর্যন্ত।",
   facebook: "https://www.facebook.com/itqanacamedia",
   logo:"/logo.png",
 };
