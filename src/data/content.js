@@ -9,10 +9,10 @@ export const academy = {
   tagline: "স্কুল শিক্ষার পাশাপাশি কুরআন ও ইসলামী শিক্ষার সুন্দর ভিত্তি",
   phone: "+880 1575-040095",
   whatsapp: "+880 1575-040095",
-  email: "info@itqanquran.academy",
+  email: "mansurbb02@gmail.com",
   address: "ঢাকা, বাংলাদেশ",
   hours: "বিকাল ও সন্ধ্যার ব্যাচ",
-  facebook: "#",
+  facebook: "https://www.facebook.com/itqanacamedia",
   logo:"/logo.png",
 };
 
