@@ -828,7 +828,6 @@ function App() {
             <div className="footer-contact">
               <h4>যোগাযোগ</h4>
               <p>{academy.phone}</p>
-              <p>{academy.email}</p>
               <p>{academy.address}</p>
             </div>
           </div>
