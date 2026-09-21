@@ -12,7 +12,7 @@ export const academy = {
   email: "mansurbb02@gmail.com",
   address: "সবুজপল্লী আবাসন, নন্দীপাড়া ৬ নং রোড, ঢাকা।",
   hours: "দুপুর ২টা হতে রাত ৯টা পর্যন্ত।",
-  facebook: "https://www.facebook.com/itqanacamedia",
+  facebook: "https://www.facebook.com/itqanacademia",
   logo:"/logo.png",
 };
 
