@@ -706,8 +706,8 @@ function App() {
                     <span>{academy.phone}</span>
                   </li>
                   <li>
-                    <strong>ইমেইল</strong>
-                    <span>{academy.email}</span>
+                    <strong>ফেসবুক</strong>
+                    <span>{academy.facebook}</span>
                   </li>
                   <li>
                     <strong>ঠিকানা</strong>
